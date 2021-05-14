@@ -6,13 +6,13 @@ Voting Application in PHP & MySQL
 
 Run Apache and MySQL
 
-# Clone the this repository
+# Clone this repository
 
-# create database
+# Create database
 
 To Create a database with the name of 'gameopedia'
 
-# import the database
+# Import the database
 
 To import or run the queries which is in db/gameopedia.sql file into your database
 
@@ -28,7 +28,9 @@ For Admin:
 http://localhost/votesystem/admin/index.php
 
 Login Credentails:
+
 username: admin
+
 password: 123456
 
 For Employee:
@@ -36,4 +38,4 @@ http://localhost/gameopedia/index.php
 
 # Test Application
 
-As per given requirements test the application.
+As per given requirements test the application with existing data or with new data.
