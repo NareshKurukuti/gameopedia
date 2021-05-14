@@ -25,7 +25,7 @@ in includes/conn.php
 # open applilcation link in browser
 
 For Admin:
-http://localhost/votesystem/admin/index.php
+http://localhost/gameopedia/admin/index.php
 
 Login Credentails:
 
